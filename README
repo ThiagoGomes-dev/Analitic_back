@@ -1,0 +1,5 @@
+Rodar o banco como studio cliente
+comando: npx prisma studio
+
+Rodar o backende em node
+comando: node --watch server.js
